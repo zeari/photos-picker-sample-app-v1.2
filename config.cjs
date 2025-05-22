@@ -38,7 +38,7 @@ config.session_secret =
 // The callback to use for OAuth requests. This is the URL where the app is
 // running. For testing and running it locally, use 127.0.0.1.
 config.oAuthCallbackUrl =
-  "http://https://photos-picker-sample-app-v1-2-neq3.onrender.com:4000/auth/google/callback";
+  "https://photos-picker-sample-app-v1-2-neq3.onrender.com:4000/auth/google/callback";
 
 // The port where the app should listen for requests.
 config.port = 4000;
